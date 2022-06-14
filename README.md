@@ -3,7 +3,9 @@
 I'm a web developer based in Hamburg, Germany. I love building products for the web. Currently i do mostly frontend development using React and JavaScript/TypeScript. What i would like to learn next is [Node.js](https://nodejs.org/en/) and NEXT.js [NEXT.js](https://nextjs.org/).
 
 Visit my [homepage](https://andree-wille.de) to learn more
-
+  
+---
+  
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andreewille&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Andree's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreewille&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 

@@ -4,7 +4,7 @@ I'm a web developer based in Hamburg, Germany. I love building products for the 
 
 Visit my [homepage](https://andree-wille.de) to learn more
 
-| <a href="https://github.com/andreewille/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andreewille&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Andree's github stats" /></a> | <a href="https://github.com/andreewille/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreewille&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="[https://github.com/andreewille/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andreewille&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Andree's github stats" /></a> | <a href="[https://github.com/andreewille/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreewille&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--

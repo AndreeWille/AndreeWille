@@ -2,6 +2,8 @@
 
 I'm a web developer based in Hamburg, Germany. I love building products for the web. Currently i do mostly frontend development using React and JavaScript/TypeScript. What i would like to learn next is [Node.js](https://nodejs.org/en/) and NEXT.js [NEXT.js](https://nextjs.org/).
 
+Visit my [homepage](https://andree-wille.de) to learn more
+
 <!--
 **AndreeWille/AndreeWille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@ I'm a web developer based in Hamburg, Germany. I love building products for the 
 
 Visit my [homepage](https://andree-wille.de) to learn more
 
-[![Andree's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreewille)](https://github.com/andreewille/github-readme-stats)
+[![Andree's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreewille&count_private=true&show_icons=true)](https://github.com/andreewille/github-readme-stats)
 
 <!--
 **AndreeWille/AndreeWille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi, I'm Andree 👋
 
-I'm a web developer based in Hamburg, Germany. I love building products for the web. Currently i do mostly frontend development using React and JavaScript/TypeScript. Currently learning [Vue.js]([https://nodejs.org/en/](https://vuejs.org/)).
+I'm a web developer based in Hamburg, Germany. I love building products for the web. Currently i do mostly frontend development using React and JavaScript/TypeScript. Currently learning [Vue.js](https://vuejs.org/).
 
 Visit my [homepage](https://andree-wille.de) to learn more
   

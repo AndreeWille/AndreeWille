@@ -1,6 +1,6 @@
 ### Hi, I'm Andree 👋
 
-I'm a web developer based in Hamburg, Germany. I love building products for the web with React and JavaScript/TypeScript.
+I'm a web developer based in Hamburg, Germany. I love building products for the web with Node, TypeScript/JavaScript and React.
 
 Visit my [homepage](https://andree-wille.de) to learn more
   

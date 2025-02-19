@@ -1,6 +1,6 @@
 ### Hi, I'm Andree Wille 👋
 
-I'm a freelance senior frontend developer specialized in React, TypeScript, Node.js based in Hamburg, Germany. I love building products for the web.
+I'm a freelance senior frontend developer specialized in React, TypeScript, JavaScript, Node.js based in Hamburg, Germany. I love building products for the web.
 
 Visit my [homepage](https://andree-wille.de) to learn more
   

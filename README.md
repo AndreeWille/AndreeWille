@@ -1,7 +1,7 @@
 ### Hi, I'm Andree Wille 👋
 
 I'm a freelance senior software engineer specialized in React, TypeScript, JavaScript, Node.js based in Hamburg, Germany. I love building products for the web.
-I help companies level up their frontend engineering—whether that's as a Product Engineer shipping features or as a Tech Lead guiding teams and architecture decisions.
+I help companies level up their software engineering—whether that's as a Product Engineer shipping features or as a Tech Lead guiding teams and architecture decisions.
 
 What I bring to the table:
 - ✨ Product mindset—I love building things that actually ship

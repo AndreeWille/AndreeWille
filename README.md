@@ -4,10 +4,10 @@ I'm a freelance senior software engineer specialized in React, TypeScript, JavaS
 I help companies level up their frontend engineering—whether that's as a Product Engineer shipping features or as a Tech Lead guiding teams and architecture decisions.
 
 What I bring to the table:
-✨ Product mindset—I love building things that actually ship
-👥 Mentoring developers and elevating team capabilities
-🔧 Tackling legacy code and complex maintenance challenges
-🚀 Leading technical decisions and best practices
+- ✨ Product mindset—I love building things that actually ship
+- 👥 Mentoring developers and elevating team capabilities
+- 🔧 Tackling legacy code and complex maintenance challenges
+- 🚀 Leading technical decisions and best practices
 
 Visit my [homepage](https://www.andree-wille.de) to learn more
   
